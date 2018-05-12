@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '35215'
     url: http://www.gutenberg.org/2009/agents/35215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31417#Psychic-Phenomena--13-A-Brief-Account-of-the-Physical-Manifestations-Observed-in-Psychical-Re_
 gutenberg_issued: '2010-02-27'
 gutenberg_type: Text
 identifiers:
