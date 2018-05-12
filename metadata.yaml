@@ -1,0 +1,37 @@
+_repo: Psychic-Phenomena--13-A-Brief-Account-of-the-Physical-Manifestations-Observed-in-Psychical-Re__31417
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Lodge, Oliver, Sir
+    aliases:
+    - Lodge, Oliver Joseph, Sir
+    - Lodge, Sir Oliver J.
+    birthdate: 1851
+    deathdate: 1940
+    gutenberg_agent_id: '31912'
+    url: http://www.gutenberg.org/2009/agents/31912
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Lodge
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Edward T.
+    gutenberg_agent_id: '35215'
+    url: http://www.gutenberg.org/2009/agents/35215
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31417'
+  lccn: '10008550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Parapsychology'
+title: "Psychic Phenomena\r\nA Brief Account of the Physical Manifestations Observed\
+  \ in Psychical Research"
+url: http://www.gutenberg.org/ebooks/31417
